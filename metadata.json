@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Retailer Cashier POS",
+  "description": "Interactive Retail Point of Sale (POS) system with product catalog, cart manager, receipt checkout, and a complete professional React Native CLI + Firebase integration blueprint hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
